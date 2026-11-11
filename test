@@ -7,5 +7,5 @@ def farewell(name):
 # This block runs only when the file is executed directly,
 # not when it is imported as a module from another file.
 if __name__ == "__main__":
- print(greet("World")) # Call the greet function and print the result
- print(farewell("World")) # Call the farewell function and print the result
+ print(greet("Paula")) # Call the greet function and print the result
+ print(farewell("Paula")) # Call the farewell function and print the result
